@@ -1,5 +1,6 @@
-# Control-of-Relay-Using-IoT-controller
-
+# EX NO 2:Control-of-Relay-Using-IoT-controller
+## NAME: VISHAL M.A
+## REG NO: 212222230177
 ##  AIM:
 To control the Relay using Arduino controller
 
